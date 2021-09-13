@@ -1,0 +1,85 @@
+{
+    "grocery":[
+        {
+            "sino":"1",
+            "name":"Carrot",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Vegitables",
+            "notes":"Size Medium"
+        },
+        {
+            "sino":"2",
+            "name":"apple",
+            "quantity":"2",
+            "unit":"Kg",
+            "department":"Fruits",
+            "notes":"Green apple"
+        },
+        {
+            "sino":"3",
+            "name":"Milk",
+            "quantity":"3",
+            "unit":"Packets",
+            "department":"Vegitables",
+            "notes":"Brand Milma"
+        },
+        {
+            "sino":"4",
+            "name":"Rice",
+            "quantity":"10",
+            "unit":"Kg",
+            "department":"Rice",
+            "notes":"White Rice"
+        },
+        {
+            "sino":"5",
+            "name":"Bannana",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Fruits",
+            "notes":"Medium Size"
+        },
+        {
+            "sino":"6",
+            "name":"Oil",
+            "quantity":"1.5",
+            "unit":"Kg",
+            "department":"Oil",
+            "notes":"Coconut Oil "
+        },
+        {
+            "sino":"7",
+            "name":"Chicken",
+            "quantity":"2",
+            "unit":"Kg",
+            "department":"Chicken",
+            "notes":"Chopped"
+        },
+        {
+            "sino":"8",
+            "name":"Orange",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Fruits",
+            "notes":"Fresh"
+        },
+        {
+            "sino":"9",
+            "name":"Lux",
+            "quantity":"2",
+            "unit":"Numbers",
+            "department":"Soap",
+            "notes":"Bathing"
+        },
+        {
+            "sino":"10",
+            "name":"Dr.Wash",
+            "quantity":"5",
+            "unit":"Numbers",
+            "department":"Soap",
+            "notes":"Washing"
+        }
+
+    ]
+}
